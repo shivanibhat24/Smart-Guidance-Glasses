@@ -12,6 +12,8 @@ Technologies used: Blender, Micropython, Python.
 
 Hardware requirements: Raspberry Pi Zero, Raspberry Pi Camera (required for input:recognition of the face) and a Bluetooth output device like a speaker or earphone and an SD Card (32 GB suffices for this project).
 
+A push button can be interfaced later in the project.
+
 Upon successfully logging in to the system in Raspberry Pi, do not forget to initialise your Audio Output and Camera.
 
 Happy Coding!
